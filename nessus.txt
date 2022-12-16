@@ -1,0 +1,3 @@
+ cd /opt/nessus/sbin
+sudo ./nessuscli update
+https://kali:8834/#/
