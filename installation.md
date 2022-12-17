@@ -84,5 +84,10 @@ mv /etc/apt/sources.list.bak /etc/apt/sources.list
 sudo apt update && sudo apt upgrade.
 
 #The End
-You now have Snort installed! Run snort --version to confirm the installation. 
+
+#You now have Snort installed! Run 
+
+snort --version 
+
+#to confirm the installation. 
 
