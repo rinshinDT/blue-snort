@@ -35,6 +35,5 @@ ICMP on targets network and maybe snort not able to capture NMAP Ping scan in th
 
 
 
-![download](https://user-images.githubusercontent.com/120714890/208247659-728ba445-ce62-4e21-b3d4-60c2fab4be21.jpg)
 
 
